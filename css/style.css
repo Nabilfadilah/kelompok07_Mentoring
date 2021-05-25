@@ -1,0 +1,41 @@
+.slider h3,
+.slider h5,
+.clients {
+    text-shadow: rgba(0, 0, 0, 0.842);
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.parallax img {
+    filter: grayscale(1);
+    opacity: 0.5 !important;
+}
+
+
+.clients img {
+    max-width: 180px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+section {
+    padding: 2px 0;
+}
+
+.tm-map {
+    max-width: 900px;
+    height: 450px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .tm-map iframe {
+    width: 100%;
+    height: 100%;
+  }
+
+footer {
+  padding: 2px 0;
+}
